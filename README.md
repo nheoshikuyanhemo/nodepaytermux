@@ -16,11 +16,18 @@ To get started with the Nodepay Airdrop Bot:
 1. Clone the repository:
 
     ```bash
+    pkg install git
+    ```
+
+    ```bash
     git clone https://github.com/nheoshikuyanhemo/nodepaytermux.git
     cd nodepaytermux
     ```
 
-2. Install the dependencies:
+3. Install the dependencies:
+    ```bash
+    pkg install nodejs-lts
+    ```
 
     ```bash
     npm install
@@ -29,6 +36,9 @@ To get started with the Nodepay Airdrop Bot:
 ## Configuration
 
 Before running the bot, you need to set up your configuration:
+```bash
+pkg install nano
+```
 
 ### 1. `token.txt` (Required)
 
@@ -49,6 +59,9 @@ To get your Bearer token:
    - This will return the Bearer token. **Copy the token** (without the `Bearer` prefix, just the alphanumeric string).
 
 3. **Paste the token in `token.txt`**:
+    ```bash
+    nano token.txt
+    ```
    - Create a `token.txt` file in the root of your project and paste your token in the file (one token per line).
 
 Example `token.txt`:
@@ -62,6 +75,9 @@ ey...
 ### 2. `proxy.txt` (Optional)
 
 Only required if you choose to use proxies when running the bot.
+```bash
+nano proxy.txt
+```
 
 - Add your proxy details in `proxy.txt`. Each line should have the format:
 
