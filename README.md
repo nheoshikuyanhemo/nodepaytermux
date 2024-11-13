@@ -16,7 +16,7 @@ To get started with the Nodepay Airdrop Bot:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/dante4rt/nodepaytermux.git
+    git clone https://github.com/nheoshikuyanhemo/nodepaytermux.git
     cd nodepaytermux
     ```
 
