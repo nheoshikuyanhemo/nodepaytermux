@@ -1,5 +1,7 @@
 # nodepay-airdrop-bot
-
+#
+[regiter Nodepay]([https://app.nodepay.ai/register?ref=rT0XIPitcNAN3Ym])
+#
 A bot for automating Nodepay airdrop interactions, including session management and pinging with flexible connection options (proxy or direct).
 
 ## Requirements
@@ -14,8 +16,8 @@ To get started with the Nodepay Airdrop Bot:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/dante4rt/nodepay-airdrop-bot.git
-    cd nodepay-airdrop-bot
+    git clone https://github.com/dante4rt/nodepaytermux.git
+    cd nodepaytermux
     ```
 
 2. Install the dependencies:
@@ -33,7 +35,7 @@ Before running the bot, you need to set up your configuration:
 To get your Bearer token:
 
 1. **Register for a Nodepay account**:
-   - Go to [Nodepay Registration Page](https://app.nodepay.ai/register?ref=3WZFKKi0Hbvi1sd) and sign up for an account.
+   - Go to [Nodepay Registration Page]([https://app.nodepay.ai/register?ref=rT0XIPitcNAN3Ym]) and sign up for an account.
 
 2. **Get your token**:
    - Open **DevTools** in your browser (right-click > Inspect or press `Ctrl+Shift+I`).
