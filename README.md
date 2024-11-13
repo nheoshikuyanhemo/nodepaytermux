@@ -1,6 +1,6 @@
 # nodepay-airdrop-bot
 #
-[regiter Nodepay](https://app.nodepay.ai/register?ref=rT0XIPitcNAN3Ym)
+# 1. [regiter Nodepay](https://app.nodepay.ai/register?ref=rT0XIPitcNAN3Ym)
 #
 A bot for automating Nodepay airdrop interactions, including session management and pinging with flexible connection options (proxy or direct).
 
