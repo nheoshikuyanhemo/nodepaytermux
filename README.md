@@ -26,11 +26,11 @@ To get started with the Nodepay Airdrop Bot:
 
 3. Install the dependencies:
     ```bash
-    pkg install nodejs-lts
+    pkg install nodejs
     ```
 
     ```bash
-    npm install
+    npm i
     ```
 
 ## Configuration
