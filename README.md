@@ -4,7 +4,7 @@
 #
 A bot for automating Nodepay airdrop interactions, including session management and pinging with flexible connection options (proxy or direct).
 #
-https://youtu.be/1WHSiW9u_TE?si=fSDVu_kEmEDZYFgs
+[tutorial on YouTube](https://youtu.be/1WHSiW9u_TE?si=fSDVu_kEmEDZYFgs)
 
 ## Requirements
 
