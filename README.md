@@ -1,6 +1,6 @@
 # nodepaytermux
 #
-## 1. [Nodepay Registration Page](https://app.nodepay.ai/register?ref=rT0XIPitcNAN3Ym)
+## [Nodepay Registration Page](https://app.nodepay.ai/register?ref=rT0XIPitcNAN3Ym)
 #
 A bot for automating Nodepay airdrop interactions, including session management and pinging with flexible connection options (proxy or direct).
 #
