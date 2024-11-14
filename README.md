@@ -1,4 +1,4 @@
-# nodepay-airdrop-bot
+# nodepaytermux
 #
 ## 1. [Nodepay Registration Page](https://app.nodepay.ai/register?ref=rT0XIPitcNAN3Ym)
 #
